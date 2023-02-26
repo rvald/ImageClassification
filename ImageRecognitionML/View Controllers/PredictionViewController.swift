@@ -8,6 +8,7 @@
 import UIKit
 
 class PredictionViewController: UIViewController {
+    
     // MARK: - Properties
     private let imageView = UIImageView()
     private let predictionLabel = UILabel()
